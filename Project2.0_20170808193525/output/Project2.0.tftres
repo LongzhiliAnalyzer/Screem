@@ -1,0 +1,39 @@
+<Resource>
+    <pages>
+        <page name="Screen0" id="0" />
+        <page name="对话框1" id="1" />
+        <page name="保存出错" id="2" />
+        <page name="完成" id="3" />
+        <page name="系统" id="4" />
+        <page name="生产" id="5" />
+        <page name="本产品" id="6" />
+        <page name="生产厂家" id="7" />
+        <page name="功能与作用" id="8" />
+        <page name="测试参数" id="9" />
+        <page name="仪器操作" id="10" />
+        <page name="应用领域" id="11" />
+        <page name="应用案例" id="12" />
+        <page name="测试参数2" id="13" />
+        <page name="显示" id="14" />
+    </pages>
+    <images>
+        <image id="0" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\0.png" width="800" height="480" crop="0" effect_left="0" effect_top="0" effect_width="800" effect_height="480" size="768000" />
+        <image id="1" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\gongshan.gif" width="45" height="46" crop="0" effect_left="0" effect_top="0" effect_width="45" effect_height="46" size="8280" delay="71" frameCount="2" />
+        <image id="2" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\lvshan.gif" width="45" height="44" crop="0" effect_left="0" effect_top="0" effect_width="45" effect_height="44" size="7920" delay="71" frameCount="2" />
+        <image id="3" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\输入文件名.jpg" width="400" height="184" crop="0" effect_left="0" effect_top="0" effect_width="400" effect_height="184" size="147200" />
+        <image id="4" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\保存失败.jpg" width="400" height="184" crop="0" effect_left="0" effect_top="0" effect_width="400" effect_height="184" size="147200" />
+        <image id="5" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\保存成功.jpg" width="400" height="184" crop="0" effect_left="0" effect_top="0" effect_width="400" effect_height="184" size="147200" />
+        <image id="6" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\xitong.png" width="800" height="480" crop="0" effect_left="0" effect_top="0" effect_width="800" effect_height="480" size="768000" />
+        <image id="7" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\shengchanshu.jpg" width="565" height="445" crop="0" effect_left="0" effect_top="0" effect_width="565" effect_height="445" size="502850" />
+        <image id="8" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\benchanpin.png" width="599" height="455" crop="0" effect_left="0" effect_top="0" effect_width="599" effect_height="455" size="545090" />
+        <image id="9" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\changjia.png" width="598" height="454" crop="0" effect_left="0" effect_top="0" effect_width="598" effect_height="454" size="542984" />
+        <image id="10" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\gongneng.png" width="599" height="453" crop="0" effect_left="0" effect_top="0" effect_width="599" effect_height="453" size="542694" />
+        <image id="11" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\ceshi1.png" width="599" height="453" crop="0" effect_left="0" effect_top="0" effect_width="599" effect_height="453" size="542694" />
+        <image id="12" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\caozuo.png" width="598" height="454" crop="0" effect_left="0" effect_top="0" effect_width="598" effect_height="454" size="542984" />
+        <image id="13" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\lingyu.png" width="599" height="453" crop="0" effect_left="0" effect_top="0" effect_width="599" effect_height="453" size="542694" />
+        <image id="14" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\anli.png" width="599" height="456" crop="0" effect_left="0" effect_top="0" effect_width="599" effect_height="456" size="546288" />
+        <image id="15" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\ceshi2.png" width="599" height="454" crop="0" effect_left="0" effect_top="0" effect_width="599" effect_height="454" size="543892" />
+        <image id="16" url="e:\screem_pro\project2.0_20170808193525\project2.0_20170808193525\Images\shangchan2.png" width="295" height="308" crop="0" effect_left="0" effect_top="0" effect_width="295" effect_height="308" size="181720" />
+    </images>
+    <waves />
+</Resource>
